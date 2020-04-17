@@ -1,6 +1,6 @@
-import { makeUser } from './JSFiles/mainPage.js';
+// import { makeUser } from './JSFiles/mainPage.js';
 
-const myForm = document.getElementById('userForm');
+// const myForm = document.getElementById('userForm');
 
 // myForm.addEventListener('submit', (event) => {
 //     event.preventDefault();
