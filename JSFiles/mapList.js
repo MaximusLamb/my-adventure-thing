@@ -15,4 +15,3 @@ for (let i = 0; i < quests.length; i++) {
 
     ul.appendChild(li);
 }
-console.log(quests[0]);
